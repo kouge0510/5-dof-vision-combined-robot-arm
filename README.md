@@ -36,7 +36,6 @@ zcode.py uses the pyzbar lib to detect zcode.
 word_detect.py is the final solution to use it.As I use it in the contest that is no longer available to other programs.So I just didn't show it all.
 
 ## The progress and features
-<input type="checkbox" style="color: green; font-size: 1.2em;" checked/> 绿色勾选框
 
 - [x] finish the program
 - [x] can use with uart
