@@ -40,4 +40,6 @@ word_detect.py is the final solution to use it.As I use it in the contest that i
 - [x] finish the program
 - [x] can use with uart
 - [x] can use with raspberry pi all series
+- [x] support python >=3.8
+- [x] support cv >=4.0
 - [ ] can't use with other brands of ARM development board as it uses pi's special lib
