@@ -35,7 +35,7 @@ zcode.py uses the pyzbar lib to detect zcode.
 
 word_detect.py is the final solution to use it.As I use it in the contest that is no longer available to other programs.So I just didn't show it all.
 
-##The progress
+## The progress
 - [x] finish the program
 - [x] can use with uart
 - [x] can use with raspberry pi all series
