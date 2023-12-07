@@ -21,7 +21,7 @@
 
 ## The file structure
 
-** arm_control.py ** shows the inverse kinematics mean to control the robo_arm
+**arm_control.py** shows the inverse kinematics mean to control the robo_arm
 
 cluster.py shows the basic way to use opencv to detect things.In this program,I use the python-opencv lib to invoke it.
 And it shows the way to detect different colors with RGB
