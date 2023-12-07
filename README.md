@@ -23,16 +23,16 @@
 
 **arm_control.py** shows the inverse kinematics mean to control the robo_arm
 
-cluster.py shows the basic way to use opencv to detect things.In this program,I use the python-opencv lib to invoke it.
+**cluster.py** shows the basic way to use opencv to detect things.In this program,I use the python-opencv lib to invoke it.
 And it shows the way to detect different colors with RGB
 
-shapes.py shows the hough circle algorithm and edge point algorithm to detect triangle and rectangle.
+**shapes.py** shows the hough circle algorithm and edge point algorithm to detect triangle and rectangle.
 
-uart.py shows the basic usage of uart agreement.And I provide two ways to use it.You can use it with single threading or multiple threadings.
+**uart.py** shows the basic usage of uart agreement.And I provide two ways to use it.You can use it with single threading or multiple threadings.
 
-zcode.py uses the pyzbar lib to detect zcode.
+**zcode.py** uses the pyzbar lib to detect zcode.
 
-word_detect.py is the final solution to use it.As I use it in the contest that is no longer available to other programs.So I just didn't show it all.
+**word_detect.py** is the final solution to use it.As I use it in the contest that is no longer available to other programs.So I just didn't show it all.
 
 ## The progress and features
 
