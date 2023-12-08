@@ -13,7 +13,7 @@
  
  -2 Pwm Servos and 4 Bus servos
  
- -including two kinds of solutions
+ # including two kinds of solutions
  
  -1:Deriving an action through the inverse of the final coordinate point and is inverse kinematics
  
