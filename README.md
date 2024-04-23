@@ -1,10 +1,17 @@
 ## 2023.8 the last time update 
  for myself and other supporters
  
- -a complete system of detecting shapes and zcodes while controlling the robot arm system
+
  
  ![e09354b84c711a332494bdc5414aa11](https://github.com/kouge0510/robot_control-with-Opencv/assets/72262866/96492b09-5717-4d66-89f3-c11d2f4cced2)
  
+ <img width="1080" alt="1ce768c0cc1ff13ec380a75bc66f5d3" src="https://github.com/kouge0510/robot_control-with-Opencv/assets/72262866/c67aac0a-df6b-4867-8c8b-ef8652298f34">
+ 
+![1](https://github.com/kouge0510/robot_control-with-Opencv/assets/72262866/cf121da2-d75f-4422-b087-c70131fd880f)
+
+ ![2](https://github.com/kouge0510/robot_control-with-Opencv/assets/72262866/a4a53e6d-0ff3-42fa-a4fe-4d6ca7ce60ab)
+ -a complete system of detecting shapes and zcodes while controlling the robot arm system
+
  -Using python to make it with raspberry 4B
  
  -with ZhongLing Tech Company Servo and Uno MCU.
